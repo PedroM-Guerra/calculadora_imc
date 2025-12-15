@@ -1,16 +1,5 @@
-# calculadora_imc
+Este projeto é um aplicativo simples desenvolvido em Flutter com foco em aprendizado. Ele consiste em uma calculadora de IMC que permite ao usuário informar peso e altura para calcular o índice de massa corporal e exibir o resultado de forma clara. O objetivo do projeto é praticar conceitos básicos do Flutter, como criação de interfaces, gerenciamento de estado, validação de dados de entrada e lógica de cálculo, servindo como base para estudos em desenvolvimento mobile.
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is a simple application developed in Flutter for learning purposes. It consists of a BMI calculator that allows users to enter weight and height to calculate the body mass index and display the result clearly. The goal of the project is to practice basic Flutter concepts such as UI creation, state management, input validation, and calculation logic, serving as a foundation for mobile development studies.
